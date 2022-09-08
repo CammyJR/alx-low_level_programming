@@ -1,0 +1,11 @@
+6-size.c: In function ‘main’:
+6-size.c:22:43: error: expected expression before ‘unsigned’
+   22 |  printf("Size of a float: %lu byte(s)\n" (unsigned long)sizeof(e));
+      |                                           ^~~~~~~~
+6-size.c:22:9: error: called object is not a function or function pointer
+   22 |  printf("Size of a float: %lu byte(s)\n" (unsigned long)sizeof(e));
+      |         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+6-size.c:22:57: error: expected ‘)’ before ‘sizeof’
+   22 |  printf("Size of a float: %lu byte(s)\n" (unsigned long)sizeof(e));
+      |                                                         ^~~~~~
+      |                                                         )
