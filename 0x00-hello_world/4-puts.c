@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * Main - Entry point
  *
  * Description:'Print output'
