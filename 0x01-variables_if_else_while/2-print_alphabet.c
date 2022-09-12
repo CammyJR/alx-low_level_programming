@@ -5,10 +5,11 @@
  * Return: Always 0
  */
 
-int main()
+int main(void)
 {
 	int c;
+
 	for (c = 'a' ; c <= 'z' ; c++)
-		putchar(c);
+	putchar (c\n);
 	return(0);	
 }
