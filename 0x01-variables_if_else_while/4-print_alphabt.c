@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main
+ * main - Entry point
  * Description: 'Prints specified lowercase alphabets'
  * Return: Always 0
  */
@@ -17,4 +17,4 @@ int main(void)
 	}
 	putchar ('\n');
 	return (0);
-}	
+}
