@@ -2,14 +2,12 @@
 
 /**
  * _abs - Computes the absolute value of an integer.
- * Return: Always 0.
+ * Return: absolute value of integer.
  */
 
-int _abs(int)
+int _abs(int c)
 {
-	int c;
-
-	c = _abs (c);
-	_putchar ('c');
-	return (0);
+	if (c < 0)
+		c = c * -1;
+	return (c);
 }
