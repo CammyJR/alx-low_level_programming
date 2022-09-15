@@ -9,7 +9,7 @@ int _abs(int)
 {
 	int c;
 
-	a = _abs (c);
-	_putchar ('a');
+	c = _abs (c);
+	_putchar ('c');
 	return (0);
 }
