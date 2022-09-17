@@ -2,7 +2,7 @@
 /**
  * main -Entry Point
  * Description: Prints Fizz for multiples of 3,
- * prints Buzz for multiples of 5, prints FizzBuzz 
+ * prints Buzz for multiples of 5, prints FizzBuzz
  * for multiples of 3 and 5.
  * Return: Always 0.
  */
