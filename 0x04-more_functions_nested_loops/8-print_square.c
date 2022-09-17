@@ -1,14 +1,14 @@
 #include "main.h"
 /**
- * print_size - Prints a square.
+ * print_square - Prints a square.
  * @size: input parameter
  * Return: A Squarre.
  */
-void print_size(int size)
+void print_square(int size)
 {
 	int a;
 
-	if (n < 0)
+	if (size < 0)
 	{
 		_putchar ('\n');
 	}
@@ -22,7 +22,7 @@ void print_size(int size)
 			{
 				_putchar ('#');
 			}
-			_purchar ('\n');
+			_putchar ('\n');
 		}
 	}
 }
