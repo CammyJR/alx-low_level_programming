@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
  * main -Entry Point
  * Description: Prints Fizz for multiples of 3,
